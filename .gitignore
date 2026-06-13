@@ -1,0 +1,26 @@
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Large dataset formats
+*.parquet
+*.xlsx
+
+# Allow the project CSV files in Dataset/
+!Dataset/**/*.csv
+
+# Temporary files
+~$*
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
