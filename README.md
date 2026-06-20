@@ -255,6 +255,12 @@ This threshold gave a more practical balance for business use by reducing false 
 4. Use purchase-probability scores for retargeting, but apply a higher threshold to control false positives.
 5. Treat the current Logistic Regression model as an interpretable baseline and improve it later with product, category, price, traffic-source, and device features if available.
 
+## Tableau Public Dashboard
+
+View the interactive Tableau story here:
+
+[Session-Level Ecommerce Funnel Analytics](https://public.tableau.com/app/profile/manjari.sharan/vizzes)
+
 ## Limitations
 
 - The funnel is session-level, not product-level.
